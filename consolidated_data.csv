@@ -1,0 +1,437 @@
+Month,State,Confirmed,Deaths
+1,Andaman and Nicobar Islands,154187,1922
+1,Andhra Pradesh,27448884,221186
+1,Arunachal Pradesh,520415,1736
+1,Assam,6718515,33089
+1,Bihar,7952001,44922
+1,Chandigarh,632798,10173
+1,Chhattisgarh,9047658,109600
+1,Dadra and Nagar Haveli and Daman and Diu,104994,62
+1,Delhi,19566622,332233
+1,Goa,1619005,23325
+1,Gujarat,7880572,134971
+1,Haryana,8233403,92110
+1,Himachal Pradesh,1756015,29793
+1,Jammu and Kashmir,3813238,59336
+1,Jharkhand,3633956,32574
+1,Karnataka,28833752,376925
+1,Kerala,26008756,105654
+1,Ladakh,298640,3969
+1,Lakshadweep,702,0
+1,Madhya Pradesh,7747005,115640
+1,Maharashtra,61433195,1559536
+1,Manipur,890695,11322
+1,Meghalaya,422833,4445
+1,Mizoram,133505,269
+1,Nagaland,372584,2635
+1,Odisha,10312437,58761
+1,Puducherry,1196248,19844
+1,Punjab,5263530,169959
+1,Rajasthan,9733025,84943
+1,Sikkim,186334,4040
+1,Tamil Nadu,25697977,379745
+1,Telengana,9024439,48803
+1,Tripura,1032922,12063
+1,Uttar Pradesh,18433015,264524
+1,Uttarakhand,2918219,49344
+1,West Bengal,17447673,309714
+2,Andaman and Nicobar Islands,140209,1736
+2,Andhra Pradesh,24886770,200548
+2,Arunachal Pradesh,471312,1568
+2,Assam,6084562,30450
+2,Bihar,7317092,42664
+2,Chandigarh,595366,9637
+2,Chhattisgarh,8653333,105517
+2,Dadra and Nagar Haveli and Daman and Diu,95209,56
+2,Delhi,17833650,304835
+2,Goa,1517445,21827
+2,Gujarat,7425825,123185
+2,Haryana,7533997,84987
+2,Himachal Pradesh,1626357,27703
+2,Jammu and Kashmir,3509838,54554
+2,Jharkhand,3340227,30279
+2,Karnataka,26460582,343417
+2,Kerala,27930718,111157
+2,Ladakh,273521,3640
+2,Lakshadweep,6125,3
+2,Madhya Pradesh,7215130,107390
+2,Maharashtra,57992941,1442941
+2,Manipur,816952,10434
+2,Meghalaya,389242,4134
+2,Mizoram,123070,265
+2,Nagaland,340686,2498
+2,Odisha,9410919,53504
+2,Puducherry,1103823,18426
+2,Punjab,4937795,159678
+2,Rajasthan,8927168,77796
+2,Sikkim,171269,3779
+2,Tamil Nadu,23654321,347779
+2,Telengana,8318653,45290
+2,Tripura,934322,10948
+2,Uttar Pradesh,16856451,243563
+2,Uttarakhand,2708370,46912
+2,West Bengal,16028639,286334
+3,Andaman and Nicobar Islands,156090,1922
+3,Andhra Pradesh,27684014,222741
+3,Arunachal Pradesh,522062,1736
+3,Assam,6752851,34047
+3,Bihar,8162858,48193
+3,Chandigarh,732819,11189
+3,Chhattisgarh,9978708,121755
+3,Dadra and Nagar Haveli and Daman and Diu,107498,62
+3,Delhi,20018746,339416
+3,Goa,1740837,25101
+3,Gujarat,8751888,137624
+3,Haryana,8597813,95610
+3,Himachal Pradesh,1866690,31379
+3,Jammu and Kashmir,3967909,61173
+3,Jharkhand,3751771,33976
+3,Karnataka,29906394,384743
+3,Kerala,33852823,136589
+3,Ladakh,306599,4030
+3,Lakshadweep,18126,31
+3,Madhya Pradesh,8438542,120825
+3,Maharashtra,73874996,1644594
+3,Manipur,909006,11570
+3,Meghalaya,433914,4605
+3,Mizoram,137727,324
+3,Nagaland,378826,2827
+3,Odisha,10492856,59459
+3,Puducherry,1247210,20872
+3,Punjab,6307089,191761
+3,Rajasthan,10053316,86670
+3,Sikkim,191830,4185
+3,Tamil Nadu,26753995,389671
+3,Telengana,9370477,51464
+3,Tripura,1036908,12130
+3,Unassigned,84,0
+3,Uttar Pradesh,18814701,271304
+3,Uttarakhand,3041879,52731
+3,West Bengal,17955451,319146
+4,Andaman and Nicobar Islands,160840,1905
+4,Andhra Pradesh,28808012,223127
+4,Arunachal Pradesh,514080,1691
+4,Assam,6788523,34360
+4,Bihar,9687784,53981
+4,Chandigarh,991479,12277
+4,Chhattisgarh,15169899,170060
+4,Dadra and Nagar Haveli and Daman and Diu,146640,90
+4,Delhi,24837787,369776
+4,Goa,2013413,27219
+4,Gujarat,11890883,161110
+4,Haryana,10558932,103004
+4,Himachal Pradesh,2260915,35558
+4,Jammu and Kashmir,4370591,62138
+4,Jharkhand,4784432,44484
+4,Karnataka,34568021,401980
+4,Kerala,37315759,146410
+4,Ladakh,350857,3987
+4,Lakshadweep,37157,33
+4,Madhya Pradesh,11767814,136714
+4,Maharashtra,109201594,1800692
+4,Manipur,894637,11368
+4,Meghalaya,450256,4640
+4,Mizoram,147434,356
+4,Nagaland,379655,2819
+4,Odisha,11067626,58462
+4,Puducherry,1411890,21323
+4,Punjab,8753130,232878
+4,Rajasthan,12406802,95301
+4,Sikkim,200004,4107
+4,Tamil Nadu,29434807,393604
+4,Telengana,10588867,56143
+4,Tripura,1020818,11809
+4,Unassigned,77,0
+4,Uttar Pradesh,24690552,295351
+4,Uttarakhand,3695301,56951
+4,West Bengal,19715845,317860
+5,Andaman and Nicobar Islands,204112,2728
+5,Andhra Pradesh,43716570,290689
+5,Arunachal Pradesh,683604,2500
+5,Assam,10139819,67730
+5,Bihar,19387874,118791
+5,Cases being reassigned to states,37520,0
+5,Chandigarh,1659398,19332
+5,Chhattisgarh,27450608,350583
+5,Dadra and Nagar Haveli and Daman and Diu,286738,124
+5,Delhi,42114174,652211
+5,Goa,4002833,61230
+5,Gujarat,22677880,293054
+5,Haryana,20481286,198647
+5,Himachal Pradesh,4693385,70798
+5,Jammu and Kashmir,7406924,96228
+5,Jharkhand,9362704,130063
+5,Karnataka,65889892,672626
+5,Kerala,64585178,203461
+5,Ladakh,505432,5109
+5,Lakshadweep,155947,481
+5,Madhya Pradesh,21966700,220918
+5,Maharashtra,164573396,2554642
+5,Manipur,1221015,17836
+5,Meghalaya,752582,10287
+5,Mizoram,275016,788
+5,Nagaland,551631,6504
+5,Odisha,18658248,72097
+5,Puducherry,2542536,35324
+5,Punjab,14977762,364255
+5,Rajasthan,25442124,205497
+5,Sikkim,348564,6083
+5,Tamil Nadu,49482252,557831
+5,Telangana,15661753,87012
+5,Telengana,490590,3554
+5,Tripura,1301676,13621
+5,Uttar Pradesh,48338036,528765
+5,Uttarakhand,8383210,142828
+5,West Bengal,34456751,416524
+6,Andaman and Nicobar Islands,57931,959
+6,Andhra Pradesh,14069513,92910
+6,Arunachal Pradesh,231071,968
+6,Assam,3530621,28541
+6,Bihar,5879846,43659
+6,Cases being reassigned to states,240648,0
+6,Chandigarh,494106,6276
+6,Chhattisgarh,7866255,105423
+6,Dadra and Nagar Haveli,20722,8
+6,Dadra and Nagar Haveli and Daman and Diu,64021,24
+6,Daman & Diu,2,0
+6,Delhi,12816612,241468
+6,Goa,1281342,21810
+6,Gujarat,7227639,123133
+6,Haryana,6314579,71586
+6,Himachal Pradesh,1563628,26124
+6,Jammu and Kashmir,2520696,33904
+6,Jharkhand,2768093,40486
+6,Karnataka,21492941,248028
+6,Kerala,20797139,76296
+6,Ladakh,166771,1570
+6,Lakshadweep,67804,289
+6,Madhya Pradesh,6588378,79613
+6,Maharashtra,49728448,925857
+6,Manipur,442994,6832
+6,Meghalaya,300472,5069
+6,Mizoram,108331,390
+6,Nagaland,184476,3257
+6,Odisha,6472492,23495
+6,Puducherry,865934,12848
+6,Punjab,4701779,121308
+6,Rajasthan,7939149,77373
+6,Sikkim,131990,2113
+6,Tamil Nadu,18886883,223026
+6,Telangana,4689583,26703
+6,Telengana,194444,5220
+6,Tripura,462693,4382
+6,Uttar Pradesh,13994133,180152
+6,Uttarakhand,2715149,53438
+6,West Bengal,11588944,142176
+7,Andaman and Nicobar Islands,6372,8
+7,Andhra Pradesh,1520146,17526
+7,Arunachal Pradesh,19775,73
+7,Assam,639191,1414
+7,Bihar,726921,5279
+7,Cases being reassigned to states,67397,0
+7,Chandigarh,20413,305
+7,Chhattisgarh,155442,764
+7,Dadra and Nagar Haveli and Daman and Diu,17784,34
+7,Delhi,3560269,106648
+7,Goa,98021,587
+7,Gujarat,1400765,65342
+7,Haryana,734204,10065
+7,Himachal Pradesh,46224,350
+7,Jammu and Kashmir,390948,6663
+7,Jharkhand,158282,1404
+7,Karnataka,1705708,32446
+7,Kerala,345425,1226
+7,Ladakh,35270,61
+7,Madhya Pradesh,640411,21604
+7,Maharashtra,8774499,342978
+7,Manipur,54871,4
+7,Meghalaya,11093,82
+7,Mizoram,8217,0
+7,Nagaland,28526,29
+7,Odisha,499757,2538
+7,Puducherry,53921,761
+7,Punjab,290423,7156
+7,Rajasthan,848812,16545
+7,Sikkim,8657,4
+7,Tamil Nadu,4863048,72814
+7,Telengana,1205706,11800
+7,Tripura,80944,187
+7,Uttar Pradesh,1396403,33074
+7,Uttarakhand,133904,1617
+7,West Bengal,1178752,32123
+8,Andaman and Nicobar Islands,63866,794
+8,Andhra Pradesh,8700021,79720
+8,Arunachal Pradesh,82912,130
+8,Assam,2281592,5846
+8,Bihar,3003495,13705
+8,Chandigarh,68226,920
+8,Chhattisgarh,513726,4435
+8,Dadra and Nagar Haveli and Daman and Diu,55535,62
+8,Delhi,4724139,129920
+8,Goa,345383,3323
+8,Gujarat,2410139,85230
+8,Haryana,1469141,16660
+8,Himachal Pradesh,126203,659
+8,Jammu and Kashmir,876217,16515
+8,Jharkhand,719086,7428
+8,Karnataka,6889574,120206
+8,Kerala,1399347,5049
+8,Ladakh,60559,468
+8,Madhya Pradesh,1407495,34052
+8,Maharashtra,18227851,609995
+8,Manipur,135066,483
+8,Meghalaya,44425,201
+8,Mizoram,23052,0
+8,Nagaland,97243,236
+8,Odisha,1886608,10232
+8,Puducherry,242151,3636
+8,Punjab,991260,25341
+8,Rajasthan,1870371,26682
+8,Sikkim,34496,56
+8,Tamil Nadu,10309676,174016
+8,Telengana,2855205,21261
+8,Tripura,233875,1762
+8,Uttar Pradesh,4685850,76014
+8,Uttarakhand,378271,4874
+8,West Bengal,3537564,73557
+9,Andaman and Nicobar Islands,105810,1526
+9,Andhra Pradesh,17176750,148944
+9,Arunachal Pradesh,197031,333
+9,Assam,4335647,14538
+9,Bihar,4801561,24107
+9,Chandigarh,248778,3082
+9,Chhattisgarh,2092826,17146
+9,Dadra and Nagar Haveli and Daman and Diu,82607,60
+9,Delhi,6731275,144740
+9,Goa,760198,9154
+9,Gujarat,3472762,97007
+9,Haryana,2903174,30467
+9,Himachal Pradesh,306951,2912
+9,Jammu and Kashmir,1670994,27623
+9,Jharkhand,1898394,16841
+9,Karnataka,14091783,220529
+9,Kerala,3570633,14165
+9,Ladakh,103672,1317
+9,Madhya Pradesh,2795410,54514
+9,Maharashtra,32562680,908307
+9,Manipur,246402,1442
+9,Meghalaya,118168,842
+9,Mizoram,43451,0
+9,Nagaland,150352,380
+9,Odisha,4745144,19377
+9,Puducherry,617996,11836
+9,Punjab,2505864,73160
+9,Rajasthan,3175975,37773
+9,Sikkim,67229,525
+9,Tamil Nadu,15325605,253029
+9,Telengana,4834626,29542
+9,Tripura,587855,6136
+9,Uttar Pradesh,9533193,137626
+9,Uttarakhand,1020048,12941
+9,West Bengal,6232914,121453
+10,Andaman and Nicobar Islands,126128,1726
+10,Andhra Pradesh,23761413,195693
+10,Arunachal Pradesh,392909,843
+10,Assam,6094054,25918
+10,Bihar,6219110,30432
+10,Chandigarh,413597,6150
+10,Chhattisgarh,4703616,44320
+10,Dadra and Nagar Haveli and Daman and Diu,98092,62
+10,Delhi,10043689,183237
+10,Goa,1215357,16181
+10,Gujarat,4823146,111533
+10,Haryana,4547489,49872
+10,Himachal Pradesh,566826,7974
+10,Jammu and Kashmir,2657541,41776
+10,Jharkhand,2915891,25154
+10,Karnataka,22638497,315539
+10,Kerala,9763929,33918
+10,Ladakh,164948,2040
+10,Madhya Pradesh,4737059,83096
+10,Maharashtra,48150932,1269079
+10,Manipur,451725,3335
+10,Meghalaya,245694,2150
+10,Mizoram,70950,3
+10,Nagaland,233935,735
+10,Odisha,8028959,33603
+10,Puducherry,992159,17538
+10,Punjab,3884110,120617
+10,Rajasthan,5160860,52748
+10,Sikkim,108197,1750
+10,Tamil Nadu,20738004,322769
+10,Telengana,6757114,38707
+10,Tripura,895344,9961
+10,Uttar Pradesh,13782962,201433
+10,Uttarakhand,1742237,25739
+10,West Bengal,9643839,181984
+11,Andaman and Nicobar Islands,136011,1817
+11,Andhra Pradesh,25514128,205684
+11,Arunachal Pradesh,471321,1393
+11,Assam,6299637,28742
+11,Bihar,6762905,35354
+11,Chandigarh,474722,7432
+11,Chhattisgarh,6337321,76620
+11,Dadra and Nagar Haveli and Daman and Diu,98782,60
+11,Delhi,14388393,229820
+11,Goa,1375118,19686
+11,Gujarat,5660022,114396
+11,Haryana,5973373,61413
+11,Himachal Pradesh,895407,13656
+11,Jammu and Kashmir,3069683,47493
+11,Jharkhand,3173556,27715
+11,Karnataka,25740356,345085
+11,Kerala,15591120,55658
+11,Ladakh,220551,2759
+11,Madhya Pradesh,5552645,92680
+11,Maharashtra,52401197,1372935
+11,Manipur,652115,6496
+11,Meghalaya,319811,3000
+11,Mizoram,100797,103
+11,Nagaland,300898,1563
+11,Odisha,9202221,45736
+11,Puducherry,1085439,18136
+11,Punjab,4251349,133991
+11,Rajasthan,6816536,62223
+11,Sikkim,133622,2646
+11,Tamil Nadu,22662530,343667
+11,Telengana,7704031,42122
+11,Tripura,957673,10849
+11,Uttar Pradesh,15327991,221126
+11,Uttarakhand,2042936,33309
+11,West Bengal,12862215,228800
+12,Andaman and Nicobar Islands,149755,1901
+12,Andhra Pradesh,27154143,218804
+12,Arunachal Pradesh,512665,1711
+12,Assam,6657671,31286
+12,Bihar,7540194,41243
+12,Chandigarh,579205,9345
+12,Chhattisgarh,8044501,96702
+12,Dadra and Nagar Haveli and Daman and Diu,104066,62
+12,Delhi,18789163,310431
+12,Goa,1536156,22082
+12,Gujarat,7097154,129363
+12,Haryana,7809674,84386
+12,Himachal Pradesh,1530320,25337
+12,Jammu and Kashmir,3603650,55880
+12,Jharkhand,3472129,30993
+12,Karnataka,27994899,370482
+12,Kerala,21071257,82588
+12,Ladakh,282403,3813
+12,Lakshadweep,0,0
+12,Madhya Pradesh,6974358,106252
+12,Maharashtra,58306196,1499062
+12,Manipur,837188,10038
+12,Meghalaya,397526,3964
+12,Mizoram,125723,213
+12,Nagaland,361522,2197
+12,Odisha,10054358,56156
+12,Puducherry,1164162,19265
+12,Punjab,4969915,157910
+12,Rajasthan,9042995,78781
+12,Sikkim,168048,3708
+12,Tamil Nadu,24819908,369344
+12,Telengana,8646516,46521
+12,Tripura,1024869,11710
+12,Uttar Pradesh,17564562,250784
+12,Uttarakhand,2579458,42515
+12,West Bengal,16211044,282550
